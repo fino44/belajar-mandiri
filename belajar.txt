@@ -1,0 +1,115 @@
+Microsoft Windows [Version 10.0.26200.8655]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\USER>cd
+C:\Users\USER
+
+C:\Users\USER>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 0274-A5DF
+
+ Directory of C:\Users\USER
+
+10/07/2026  21.49    <DIR>          .
+28/04/2026  20.52    <DIR>          ..
+21/04/2026  20.32    <DIR>          .android
+02/02/2026  20.47                16 .bash_history
+29/05/2026  20.21    <DIR>          .cache
+30/05/2026  20.45    <DIR>          .codex
+12/02/2026  21.35                16 .emulator_console_auth_token
+13/06/2026  20.14               120 .gitconfig
+01/07/2026  16.11    <DIR>          .MUMUVMM
+08/01/2026  00.36    <DIR>          .vscode
+01/05/2026  20.54    <DIR>          .vscode-shared
+06/02/2026  19.55    <DIR>          Contacts
+05/07/2026  05.52    <DIR>          Desktop
+22/07/2026  21.35    <DIR>          Documents
+03/08/2026  20.40    <DIR>          Downloads
+06/02/2026  19.55    <DIR>          Favorites
+06/02/2026  19.55    <DIR>          Links
+06/02/2026  19.55    <DIR>          Music
+28/07/2026  20.51    <DIR>          OneDrive
+17/06/2026  10.10    <DIR>          perpustakaan
+06/07/2026  18.38    <DIR>          Pictures
+06/02/2026  19.55    <DIR>          Saved Games
+13/04/2026  21.01    <DIR>          Searches
+17/06/2026  14.12    <DIR>          tugas_akhir_perpus
+16/06/2026  21.06    <DIR>          venv
+06/02/2026  19.55    <DIR>          Videos
+               3 File(s)            152 bytes
+              23 Dir(s)  49.688.506.368 bytes free
+
+C:\Users\USER>cd dekstop
+The system cannot find the path specified.
+
+C:\Users\USER>cd Desktop
+
+C:\Users\USER\Desktop>cd
+C:\Users\USER\Desktop
+
+C:\Users\USER\Desktop>mkdir latihan-terminal
+
+C:\Users\USER\Desktop>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 0274-A5DF
+
+ Directory of C:\Users\USER\Desktop
+
+03/08/2026  21.04    <DIR>          .
+10/07/2026  21.49    <DIR>          ..
+02/06/2026  20.11             2.316 Adobe.lnk
+02/06/2026  20.18             2.791 Duolinggo.lnk
+19/03/2023  01.23             2.413 Excel.lnk
+23/07/2026  20.50             1.243 FastClient.lnk
+09/07/2026  12.19           392.320 Firefox.exe
+03/08/2026  21.04    <DIR>          latihan-terminal
+15/04/2026  19.59             2.067 MuMuPlayer.lnk
+28/04/2026  20.37    <DIR>          Old Firefox Data
+19/03/2023  01.23             2.450 PowerPoint.lnk
+01/07/2026  10.47             1.394 Roblox Player.lnk
+23/06/2026  18.11             1.394 Roblox Studio.lnk
+26/06/2026  18.34             1.845 Spotify.lnk
+22/01/2026  20.10             1.029 Telegram.lnk
+21/01/2026  21.00             1.401 Visual Studio Code.lnk
+19/03/2023  01.23             2.451 Word.lnk
+              13 File(s)        415.114 bytes
+               4 Dir(s)  49.677.340.672 bytes free
+
+C:\Users\USER\Desktop>cd latihan-terminal
+
+C:\Users\USER\Desktop\latihan-terminal>cd
+C:\Users\USER\Desktop\latihan-terminal
+
+C:\Users\USER\Desktop\latihan-terminal>mkdir tugas
+
+C:\Users\USER\Desktop\latihan-terminal>mkdir gambar
+
+C:\Users\USER\Desktop\latihan-terminal>mkdir python
+
+C:\Users\USER\Desktop\latihan-terminal>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 0274-A5DF
+
+ Directory of C:\Users\USER\Desktop\latihan-terminal
+
+03/08/2026  21.07    <DIR>          .
+03/08/2026  21.04    <DIR>          ..
+03/08/2026  21.07    <DIR>          gambar
+03/08/2026  21.07    <DIR>          python
+03/08/2026  21.07    <DIR>          tugas
+               0 File(s)              0 bytes
+               5 Dir(s)  49.456.734.208 bytes free
+
+C:\Users\USER\Desktop\latihan-terminal>cd ..
+
+C:\Users\USER\Desktop>cd
+C:\Users\USER\Desktop
+
+C:\Users\USER\Desktop>cd ..
+
+C:\Users\USER>cd Downloads
+
+C:\Users\USER\Downloads>cd OneDrive\Downloads
+The system cannot find the path specified.
+
+C:\Users\USER\Downloads>
