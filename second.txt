@@ -1,0 +1,49 @@
+C:\Users\USER\Desktop\PraktikCLI>echo Belajar Command Line > tugas.txt
+C:\Users\USER\Desktop\PraktikCLI>dir
+Volume in drive C has no label.
+Volume Serial Number is 0274-A5DF
+Directory of C:\Users\USER\Desktop\PraktikCLI
+20.59 <DIR>
+05/08/2026 05/08/2026 20.58 05/08/2026 20.59
+<DIR>
+1 File(s) 2 Dir(s)
+23 tugas.txt 23 bytes
+52.890.886.144 bytes free
+C:\Users\USER\Desktop\PraktikCLI>
+C:\Users\USER\Desktop\PraktikCLI>mkdir Arsip
+C:\Users\USER\Desktop\PraktikCLI>move hasil.txt Arsip 1 file(s) moved.
+C:\Users\USER\Desktop\PraktikCLI>cd Arsip
+C:\Users\USER\Desktop\PraktikCLI\Arsip>dir Volume in drive C has no label.
+Volume Serial Number is 0274-A5DF
+Directory of C:\Users\USER\Desktop\PraktikCLI\Arsip
+05/08/2026 21.01 05/08/2026 21.01 05/08/2026 20.59
+<DIR>
+<DIR>
+23 hasil.txt 23 bytes
+1 File(s)
+2 Dir(s) 52.871.573.504 bytes free
+C:\Users\USER\Desktop\PraktikCLI\Arsip>
+C:\Users\USER\Desktop\PraktikCLI>cd Arsip
+C:\Users\USER\Desktop\PraktikCLI\Arsip>dir Volume in drive C has no label.
+Volume Serial Number is 0274-A5DF
+Directory of C:\Users\USER\Desktop\PraktikCLI\Arsip
+21.01 <DIR>
+05/08/2026 05/08/2026 21.02
+<DIR>
+05/08/2026 20.59
+1 File(s)
+23 hasil.txt 23 bytes
+2 Dir(s)
+52.868.603.904 bytes free
+C:\Users\USER\Desktop\PraktikCLI\Arsip>cd
+C:\Users\USER\Desktop\PraktikCLI>rmdir /S Arsip Arsip, Are you sure (Y/N)? y
+C:\Users\USER\Desktop\PraktikCLI>dir Volume in drive C has no label. Volume Serial Number is 0274-A5DF
+Directory of C:\Users\USER\Desktop\PraktikCLI
+05/08/2026 21.03
+<DIR>
+05/08/2026 20.58 <DIR>
+• File(s)
+2 Dir(s)
+0 bytes
+52.867.174.400 bytes free
+C:\Users\USER\Desktop\PraktikCLI>
